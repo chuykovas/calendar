@@ -1,0 +1,63 @@
+.form-login__overlay {
+    position: fixed;
+    z-index: 10000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .7);
+
+}
+.form-auth{
+    display: flex;
+    flex-direction: column;
+    padding: 25px 25px;
+    width: 400px;
+    background: #ffffff;
+    box-shadow: 0px 0px 40px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    margin: auto;
+    position: absolute;
+    top: 50px; left: 0; right: 0;
+}
+.form-auth .title{
+    align-self: center;
+    padding-bottom: 10px ;
+    font-size: 35px;
+    line-height: 25px;
+}
+*{
+    font-size: 1em;
+    line-height: 1em;
+    font-weight: bold;
+    color: #2a2727;
+}
+.input-wrapper{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+.input{
+    padding: 7px 15px;
+    color: #787878;
+    background: #ffffff;
+    border: 2px solid #2a2727;;
+    border-radius: 10px;
+}
+.input::placeholder{
+    color: #ccc;
+}
+.input:focus{
+    outline: none;
+    border:  2px solid #525050;
+}
+.label-input{
+    padding-bottom: 3px;
+}
+.error{
+    color: #ab1212;
+}
+.error-input,
+.error-input:focus{
+    border: 2px solid #ab1212;
+}

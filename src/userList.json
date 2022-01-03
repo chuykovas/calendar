@@ -1,0 +1,57 @@
+[{
+ "id": "group-1", "name": "Группа 1", "students": [
+   {"name": "Васильев Игорь", "chacked": false},
+	 {"name": "Ашканов Александр", "chacked": false},
+	 {"name": "Барон Екатерина", "chacked": false},
+	 {"name": "Белоножко Анастасия", "chacked": false},
+	 {"name": "Беседина Людмила", "chacked": false},
+	 {"name": "Богатырёв Мурат", "chacked": false},
+	 {"name": "Ким Евгения", "chacked": false},
+	 {"name": "Корик Никита", "chacked": false},
+	 {"name": "Кузнецов Даниил", "chacked": false},
+	 {"name": "Нуднова Анастасия", "chacked": false},
+	 {"name": "Петрова Диана", "chacked": false}
+  ]
+},
+{
+	"id": "group-2", "name": "Группа 2", "students": [
+    {"name": "Пойлов Тихон", "chacked": false},
+	 {"name": "Салихов Сиражутдин", "chacked": false},
+	 {"name": "Соколовский Александр", "chacked": false},
+	 {"name": "Ткачева Ева", "chacked": false},
+	 {"name": "Алискендерова Замина", "chacked": false},
+	 {"name": "Бабахян Валерия", "chacked": false},
+	 {"name": "Бишарова Юлия", "chacked": false},
+	 {"name": "Бутырина Снежана", "chacked": false},
+	 {"name": "Галимова Диана", "chacked": false},
+	 {"name": "Набиева Анита", "chacked": false},
+	 {"name": "Наконечная Анастасия ", "chacked": false}
+  ]
+},
+{
+	"id": "group-3", "name": "Группа 3", "students": [
+    {"name": "Салпагарова Камилла", "chacked": false},
+	 {"name": "Свичарская Ксения", "chacked": false},
+	 {"name": "Смелова Екатерина", "chacked": false},
+	 {"name": "Тамати Ариана", "chacked": false},
+	 {"name": "Фетисова Анастасия", "chacked": false},
+	 {"name": "Фролова Дарья", "chacked": false},
+	 {"name": "Юнусова Алина ", "chacked": false},
+	 {"name": "Ярмух Анастасия", "chacked": false},
+	 {"name": "Газизова Альбина ", "chacked": false},
+	 {"name": "Зуева Елизавета", "chacked": false}
+  ]
+}]
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+

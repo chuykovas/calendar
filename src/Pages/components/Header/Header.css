@@ -1,0 +1,13 @@
+.headerCalendar{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 5px;
+}
+.button-wrapper{
+    margin-left: auto;
+    display: flex;
+}
+.button-wrapper Button{
+    margin-left: 10px;
+}
