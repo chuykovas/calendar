@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/graduate_work/static/css/main.28e79188.chunk.css",
+    "main.js": "/graduate_work/static/js/main.732fb199.chunk.js",
+    "main.js.map": "/graduate_work/static/js/main.732fb199.chunk.js.map",
+    "runtime-main.js": "/graduate_work/static/js/runtime-main.f83c7a3f.js",
+    "runtime-main.js.map": "/graduate_work/static/js/runtime-main.f83c7a3f.js.map",
+    "static/css/2.9c8534f5.chunk.css": "/graduate_work/static/css/2.9c8534f5.chunk.css",
+    "static/js/2.689cdaf5.chunk.js": "/graduate_work/static/js/2.689cdaf5.chunk.js",
+    "static/js/2.689cdaf5.chunk.js.map": "/graduate_work/static/js/2.689cdaf5.chunk.js.map",
+    "static/js/3.ab2b73e9.chunk.js": "/graduate_work/static/js/3.ab2b73e9.chunk.js",
+    "static/js/3.ab2b73e9.chunk.js.map": "/graduate_work/static/js/3.ab2b73e9.chunk.js.map",
+    "index.html": "/graduate_work/index.html",
+    "static/css/2.9c8534f5.chunk.css.map": "/graduate_work/static/css/2.9c8534f5.chunk.css.map",
+    "static/css/main.28e79188.chunk.css.map": "/graduate_work/static/css/main.28e79188.chunk.css.map",
+    "static/js/2.689cdaf5.chunk.js.LICENSE.txt": "/graduate_work/static/js/2.689cdaf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f83c7a3f.js",
+    "static/css/2.9c8534f5.chunk.css",
+    "static/js/2.689cdaf5.chunk.js",
+    "static/css/main.28e79188.chunk.css",
+    "static/js/main.732fb199.chunk.js"
+  ]
+}
